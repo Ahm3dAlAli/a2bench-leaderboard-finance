@@ -4,14 +4,15 @@
   },
   "results": [
     {
-      "pass_rate": 0.198,
-      "time_used": 52.3,
-      "max_score": 1.0
-    },
-    {
-      "pass_rate": 0.198,
-      "time_used": 50.7,
-      "max_score": 1.0
+      "domain": "finance",
+      "a2_score": 0.198,
+      "safety": 0.350,
+      "security": 0.140,
+      "reliability": 0.0,
+      "compliance": 0.0,
+      "num_tasks": 28,
+      "defense_rate": 0.85,
+      "time_used": 52.3
     }
   ]
 }
